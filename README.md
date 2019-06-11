@@ -1,2 +1,2 @@
-# fujun2.github.com
+# fujun2.github.io
 个人主页
